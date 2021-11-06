@@ -1,0 +1,14 @@
+{
+  "name": "panaderia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "scss": "npx sass --watch scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.43.4"
+  }
+}
